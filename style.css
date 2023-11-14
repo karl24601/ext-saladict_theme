@@ -1,0 +1,57 @@
+.menuBar {
+  background-color: #fff ;
+  border-bottom: 1px solid #eee;
+  padding: 8px;
+}
+
+.menuBar-SearchBox_Wrap {
+  padding-right: 5px;
+}
+
+.menuBar-SearchBox {
+  color: #000;
+  background-color: #eee;
+  padding: 8px 10px;
+  border-radius: 10px;
+}
+
+.menuBar-Btn_Icon,
+.menuBar-Btn_Icon-fav,
+.menuBar-Btn_Icon-history {
+  fill: #222;
+}
+
+.mtaBox-TextArea-Wrap,
+.mtaBox-DrawerBtn,
+.waveformBox.saladict-external,
+.dictItemHead-Logo {
+	border-radius: 4px;
+}
+
+.dictItem {
+  padding: 0 10px;
+}
+
+.dictItem:first-child {
+  padding-top: 10px;
+}
+
+.dictItem-Body {
+  padding: 0 3px;
+}
+
+.dictItemHead {
+  background: #eee;
+  border-radius: 6px;
+  padding: 6px;
+  height: auto;
+}
+
+.dictPanel-Root {
+  box-shadow: rgba(0, 0, 0, 0.2) 0 7px 21px 2px;
+}
+
+.isAnimate .menuBar-Btn,
+.isAnimate .menuBar-Btn-dir {
+  border-radius: 6px;
+}
